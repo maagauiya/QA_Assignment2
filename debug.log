@@ -1,0 +1,35 @@
+
+Example of succes test
+2022-09-21T09:42:24.456591+0600 INFO Moodle login testing started
+2022-09-21T09:42:27.509893+0600 INFO End of test
+
+Example of failure test
+2022-09-21T09:43:58.688419+0600 INFO Moodle login testing started
+2022-09-21T09:45:32.731249+0600 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="sadjsaj"]"}
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x0000000100dcade8 chromedriver + 4500968
+1   chromedriver                        0x0000000100d50953 chromedriver + 4000083
+2   chromedriver                        0x00000001009e510a chromedriver + 413962
+3   chromedriver                        0x0000000100a1ca63 chromedriver + 641635
+4   chromedriver                        0x0000000100a1cc51 chromedriver + 642129
+5   chromedriver                        0x0000000100a4f134 chromedriver + 848180
+6   chromedriver                        0x0000000100a399ed chromedriver + 760301
+7   chromedriver                        0x0000000100a4cda9 chromedriver + 839081
+8   chromedriver                        0x0000000100a397f3 chromedriver + 759795
+9   chromedriver                        0x0000000100a0fb90 chromedriver + 588688
+10  chromedriver                        0x0000000100a10c75 chromedriver + 593013
+11  chromedriver                        0x0000000100d9c1cd chromedriver + 4309453
+12  chromedriver                        0x0000000100da0a45 chromedriver + 4328005
+13  chromedriver                        0x0000000100da6c1f chromedriver + 4353055
+14  chromedriver                        0x0000000100da176a chromedriver + 4331370
+15  chromedriver                        0x0000000100d7796c chromedriver + 4159852
+16  chromedriver                        0x0000000100dbcba8 chromedriver + 4443048
+17  chromedriver                        0x0000000100dbcd43 chromedriver + 4443459
+18  chromedriver                        0x0000000100dd209e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff8152b94e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8152b4f6b thread_start + 15
+
+2022-09-21T09:49:22.282388+0600 INFO Ticket booking testing started
+2022-09-21T09:50:08.248955+0600 ERROR Message: 
+2022-09-21T09:50:13.590678+0600 INFO End of test
