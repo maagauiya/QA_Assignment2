@@ -1,7 +1,3 @@
-
-
-
-
 import chromedriver_autoinstaller #For auto installing a web driver
 from selenium import webdriver #importing web driver
 from selenium.webdriver.common.by import By # to specify attribute or tagname for searching element

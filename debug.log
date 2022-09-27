@@ -33,3 +33,357 @@ Stacktrace:
 2022-09-21T09:49:22.282388+0600 INFO Ticket booking testing started
 2022-09-21T09:50:08.248955+0600 ERROR Message: 
 2022-09-21T09:50:13.590678+0600 INFO End of test
+2022-09-26T16:03:20.905254+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:03:41.686811+0600 ERROR Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102694de8 chromedriver + 4500968
+1   chromedriver                        0x000000010261a953 chromedriver + 4000083
+2   chromedriver                        0x00000001022af10a chromedriver + 413962
+3   chromedriver                        0x00000001022e6a63 chromedriver + 641635
+4   chromedriver                        0x00000001022e6c51 chromedriver + 642129
+5   chromedriver                        0x0000000102319134 chromedriver + 848180
+6   chromedriver                        0x00000001023039ed chromedriver + 760301
+7   chromedriver                        0x0000000102316da9 chromedriver + 839081
+8   chromedriver                        0x00000001023037f3 chromedriver + 759795
+9   chromedriver                        0x00000001022d9b90 chromedriver + 588688
+10  chromedriver                        0x00000001022dac75 chromedriver + 593013
+11  chromedriver                        0x00000001026661cd chromedriver + 4309453
+12  chromedriver                        0x000000010266aa45 chromedriver + 4328005
+13  chromedriver                        0x0000000102670c1f chromedriver + 4353055
+14  chromedriver                        0x000000010266b76a chromedriver + 4331370
+15  chromedriver                        0x000000010264196c chromedriver + 4159852
+16  chromedriver                        0x0000000102686ba8 chromedriver + 4443048
+17  chromedriver                        0x0000000102686d43 chromedriver + 4443459
+18  chromedriver                        0x000000010269c09e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T16:04:27.973192+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:04:47.702435+0600 ERROR Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100d4ade8 chromedriver + 4500968
+1   chromedriver                        0x0000000100cd0953 chromedriver + 4000083
+2   chromedriver                        0x000000010096510a chromedriver + 413962
+3   chromedriver                        0x000000010099ca63 chromedriver + 641635
+4   chromedriver                        0x000000010099cc51 chromedriver + 642129
+5   chromedriver                        0x00000001009cf134 chromedriver + 848180
+6   chromedriver                        0x00000001009b99ed chromedriver + 760301
+7   chromedriver                        0x00000001009ccda9 chromedriver + 839081
+8   chromedriver                        0x00000001009b97f3 chromedriver + 759795
+9   chromedriver                        0x000000010098fb90 chromedriver + 588688
+10  chromedriver                        0x0000000100990c75 chromedriver + 593013
+11  chromedriver                        0x0000000100d1c1cd chromedriver + 4309453
+12  chromedriver                        0x0000000100d20a45 chromedriver + 4328005
+13  chromedriver                        0x0000000100d26c1f chromedriver + 4353055
+14  chromedriver                        0x0000000100d2176a chromedriver + 4331370
+15  chromedriver                        0x0000000100cf796c chromedriver + 4159852
+16  chromedriver                        0x0000000100d3cba8 chromedriver + 4443048
+17  chromedriver                        0x0000000100d3cd43 chromedriver + 4443459
+18  chromedriver                        0x0000000100d5209e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T16:06:09.739789+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:06:31.953104+0600 ERROR Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102f43de8 chromedriver + 4500968
+1   chromedriver                        0x0000000102ec9953 chromedriver + 4000083
+2   chromedriver                        0x0000000102b5e10a chromedriver + 413962
+3   chromedriver                        0x0000000102b95a63 chromedriver + 641635
+4   chromedriver                        0x0000000102b95c51 chromedriver + 642129
+5   chromedriver                        0x0000000102bc8134 chromedriver + 848180
+6   chromedriver                        0x0000000102bb29ed chromedriver + 760301
+7   chromedriver                        0x0000000102bc5da9 chromedriver + 839081
+8   chromedriver                        0x0000000102bb27f3 chromedriver + 759795
+9   chromedriver                        0x0000000102b88b90 chromedriver + 588688
+10  chromedriver                        0x0000000102b89c75 chromedriver + 593013
+11  chromedriver                        0x0000000102f151cd chromedriver + 4309453
+12  chromedriver                        0x0000000102f19a45 chromedriver + 4328005
+13  chromedriver                        0x0000000102f1fc1f chromedriver + 4353055
+14  chromedriver                        0x0000000102f1a76a chromedriver + 4331370
+15  chromedriver                        0x0000000102ef096c chromedriver + 4159852
+16  chromedriver                        0x0000000102f35ba8 chromedriver + 4443048
+17  chromedriver                        0x0000000102f35d43 chromedriver + 4443459
+18  chromedriver                        0x0000000102f4b09e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T16:12:45.854447+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:18:25.217382+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:18:51.477292+0600 ERROR Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100992de8 chromedriver + 4500968
+1   chromedriver                        0x0000000100918953 chromedriver + 4000083
+2   chromedriver                        0x00000001005ad10a chromedriver + 413962
+3   chromedriver                        0x00000001005e4a63 chromedriver + 641635
+4   chromedriver                        0x00000001005e4c51 chromedriver + 642129
+5   chromedriver                        0x0000000100617134 chromedriver + 848180
+6   chromedriver                        0x00000001006019ed chromedriver + 760301
+7   chromedriver                        0x0000000100614da9 chromedriver + 839081
+8   chromedriver                        0x00000001006017f3 chromedriver + 759795
+9   chromedriver                        0x00000001005d7b90 chromedriver + 588688
+10  chromedriver                        0x00000001005d8c75 chromedriver + 593013
+11  chromedriver                        0x00000001009641cd chromedriver + 4309453
+12  chromedriver                        0x0000000100968a45 chromedriver + 4328005
+13  chromedriver                        0x000000010096ec1f chromedriver + 4353055
+14  chromedriver                        0x000000010096976a chromedriver + 4331370
+15  chromedriver                        0x000000010093f96c chromedriver + 4159852
+16  chromedriver                        0x0000000100984ba8 chromedriver + 4443048
+17  chromedriver                        0x0000000100984d43 chromedriver + 4443459
+18  chromedriver                        0x000000010099a09e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T16:20:28.308783+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:20:52.091127+0600 ERROR Message: 
+Stacktrace:
+0   chromedriver                        0x00000001044cbde8 chromedriver + 4500968
+1   chromedriver                        0x0000000104451953 chromedriver + 4000083
+2   chromedriver                        0x00000001040e610a chromedriver + 413962
+3   chromedriver                        0x000000010411da63 chromedriver + 641635
+4   chromedriver                        0x000000010411dc51 chromedriver + 642129
+5   chromedriver                        0x0000000104150134 chromedriver + 848180
+6   chromedriver                        0x000000010413a9ed chromedriver + 760301
+7   chromedriver                        0x000000010414dda9 chromedriver + 839081
+8   chromedriver                        0x000000010413a7f3 chromedriver + 759795
+9   chromedriver                        0x0000000104110b90 chromedriver + 588688
+10  chromedriver                        0x0000000104111c75 chromedriver + 593013
+11  chromedriver                        0x000000010449d1cd chromedriver + 4309453
+12  chromedriver                        0x00000001044a1a45 chromedriver + 4328005
+13  chromedriver                        0x00000001044a7c1f chromedriver + 4353055
+14  chromedriver                        0x00000001044a276a chromedriver + 4331370
+15  chromedriver                        0x000000010447896c chromedriver + 4159852
+16  chromedriver                        0x00000001044bdba8 chromedriver + 4443048
+17  chromedriver                        0x00000001044bdd43 chromedriver + 4443459
+18  chromedriver                        0x00000001044d309e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T16:21:03.600796+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:21:19.351798+0600 ERROR Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x0000000101069de8 chromedriver + 4500968
+1   chromedriver                        0x0000000100fef953 chromedriver + 4000083
+2   chromedriver                        0x0000000100c8410a chromedriver + 413962
+3   chromedriver                        0x0000000100c87197 chromedriver + 426391
+4   chromedriver                        0x0000000100c8703f chromedriver + 426047
+5   chromedriver                        0x0000000100c872fc chromedriver + 426748
+6   chromedriver                        0x0000000100cbb777 chromedriver + 640887
+7   chromedriver                        0x0000000100cbbc51 chromedriver + 642129
+8   chromedriver                        0x0000000100cee134 chromedriver + 848180
+9   chromedriver                        0x0000000100cd89ed chromedriver + 760301
+10  chromedriver                        0x0000000100cebda9 chromedriver + 839081
+11  chromedriver                        0x0000000100cd87f3 chromedriver + 759795
+12  chromedriver                        0x0000000100caeb90 chromedriver + 588688
+13  chromedriver                        0x0000000100cafc75 chromedriver + 593013
+14  chromedriver                        0x000000010103b1cd chromedriver + 4309453
+15  chromedriver                        0x000000010103fa45 chromedriver + 4328005
+16  chromedriver                        0x0000000101045c1f chromedriver + 4353055
+17  chromedriver                        0x000000010104076a chromedriver + 4331370
+18  chromedriver                        0x000000010101696c chromedriver + 4159852
+19  chromedriver                        0x000000010105bba8 chromedriver + 4443048
+20  chromedriver                        0x000000010105bd43 chromedriver + 4443459
+21  chromedriver                        0x000000010107109e chromedriver + 4530334
+22  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T16:24:14.450502+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:28:36.944496+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T16:49:38.253907+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T17:18:59.909074+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T17:21:33.222249+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T17:22:23.688001+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T17:24:01.848321+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T17:24:36.258212+0600 INFO Register and log in AiTube via Google account 
+2022-09-26T17:25:03.650956+0600 ERROR Message: element click intercepted: Element <input type="text" name="query" class="search-hover__field" size="15" maxlength="50" autocomplete="off" placeholder="Поиск по сайту"> is not clickable at point (1218, 250). Other element would receive the click: <div class="multi-search">...</div>
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x0000000100aa1de8 chromedriver + 4500968
+1   chromedriver                        0x0000000100a27953 chromedriver + 4000083
+2   chromedriver                        0x00000001006bc10a chromedriver + 413962
+3   chromedriver                        0x00000001006fb3a2 chromedriver + 672674
+4   chromedriver                        0x00000001006f8e27 chromedriver + 663079
+5   chromedriver                        0x00000001006f6414 chromedriver + 652308
+6   chromedriver                        0x00000001006f5137 chromedriver + 647479
+7   chromedriver                        0x00000001006e8a78 chromedriver + 596600
+8   chromedriver                        0x00000001007109c2 chromedriver + 760258
+9   chromedriver                        0x00000001006e8275 chromedriver + 594549
+10  chromedriver                        0x0000000100710b1e chromedriver + 760606
+11  chromedriver                        0x0000000100723da9 chromedriver + 839081
+12  chromedriver                        0x00000001007107f3 chromedriver + 759795
+13  chromedriver                        0x00000001006e6b90 chromedriver + 588688
+14  chromedriver                        0x00000001006e7c75 chromedriver + 593013
+15  chromedriver                        0x0000000100a731cd chromedriver + 4309453
+16  chromedriver                        0x0000000100a77a45 chromedriver + 4328005
+17  chromedriver                        0x0000000100a7dc1f chromedriver + 4353055
+18  chromedriver                        0x0000000100a7876a chromedriver + 4331370
+19  chromedriver                        0x0000000100a4e96c chromedriver + 4159852
+20  chromedriver                        0x0000000100a93ba8 chromedriver + 4443048
+21  chromedriver                        0x0000000100a93d43 chromedriver + 4443459
+22  chromedriver                        0x0000000100aa909e chromedriver + 4530334
+23  libsystem_pthread.dylib             0x00007ff8138d94e1 _pthread_start + 125
+24  libsystem_pthread.dylib             0x00007ff8138d4f6b thread_start + 15
+
+2022-09-26T17:26:22.809997+0600 INFO Register and log in AiTube via Google account 
+2022-09-27T21:13:34.650698+0600 INFO Register and log in AiTube via Google account 
+2022-09-27T21:14:13.851278+0600 ERROR Message: 
+
+2022-09-27T21:16:49.885038+0600 INFO  
+2022-09-27T21:17:25.937943+0600 ERROR Message: 
+
+2022-09-27T21:35:00.175142+0600 INFO Test of search engine text message:None
+2022-09-27T21:35:00.186758+0600 ERROR Please add all necessary informations
+2022-09-27T21:35:52.072005+0600 INFO Send message to support started inputs:name = Bekarys 
+ phone_number = 87719870019emai = magauiyanov.b@gmail.com 
+ msg = Hey
+2022-09-27T21:38:49.839553+0600 INFO Send message to support started inputs:name = Bekarys 
+ phone_number = 87719870019emai = magauiyanov.b@gmail.com 
+ msg = Hey
+2022-09-27T21:41:25.590548+0600 INFO Send message to support started inputs:name = Bekarys 
+ phone_number = 87719870019emai = magauiyanov.b@gmail.com 
+ msg = Hey
+2022-09-27T21:42:45.323894+0600 INFO Send message to support started inputs:name = Bekarys 
+ phone_number = 87719870019emai = magauiyanov.b@gmail.com 
+ msg = Hey
+2022-09-27T21:43:16.596929+0600 INFO Send message to support started inputs:name = Test 
+ phone_number = 877077272emai = example.b@gmail.com 
+ msg = Hey
+2022-09-27T21:43:48.752852+0600 ERROR Message: 
+
+2022-09-27T21:45:56.198829+0600 INFO Send message to support started inputs:name = Test 
+ phone_number = 877077272emai = example.b@gmail.com 
+ msg = Hey
+2022-09-27T21:46:18.032722+0600 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="onesignal-slidedown-cancel-button"]"}
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x000000010315cde8 chromedriver + 4500968
+1   chromedriver                        0x00000001030e2953 chromedriver + 4000083
+2   chromedriver                        0x0000000102d7710a chromedriver + 413962
+3   chromedriver                        0x0000000102daea63 chromedriver + 641635
+4   chromedriver                        0x0000000102daec51 chromedriver + 642129
+5   chromedriver                        0x0000000102de1134 chromedriver + 848180
+6   chromedriver                        0x0000000102dcb9ed chromedriver + 760301
+7   chromedriver                        0x0000000102ddeda9 chromedriver + 839081
+8   chromedriver                        0x0000000102dcb7f3 chromedriver + 759795
+9   chromedriver                        0x0000000102da1b90 chromedriver + 588688
+10  chromedriver                        0x0000000102da2c75 chromedriver + 593013
+11  chromedriver                        0x000000010312e1cd chromedriver + 4309453
+12  chromedriver                        0x0000000103132a45 chromedriver + 4328005
+13  chromedriver                        0x0000000103138c1f chromedriver + 4353055
+14  chromedriver                        0x000000010313376a chromedriver + 4331370
+15  chromedriver                        0x000000010310996c chromedriver + 4159852
+16  chromedriver                        0x000000010314eba8 chromedriver + 4443048
+17  chromedriver                        0x000000010314ed43 chromedriver + 4443459
+18  chromedriver                        0x000000010316409e chromedriver + 4530334
+19  libsystem_pthread.dylib             0x00007ff81d1e54e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81d1e0f6b thread_start + 15
+
+2022-09-27T21:47:13.574183+0600 INFO Send message to support started inputs:name = Test 
+ phone_number = 877077272emai = example.b@gmail.com 
+ msg = Hey
+2022-09-27T21:48:23.883706+0600 INFO Send message to support started inputs:name = Test 
+ phone_number = 877077272emai = example.b@gmail.com 
+ msg = Hey
+2022-09-27T21:54:36.736491+0600 INFO Adding item to wishlist
+2022-09-27T21:55:02.316819+0600 ERROR Message: 
+
+2022-09-27T21:56:20.243766+0600 INFO Adding item to wishlist
+2022-09-27T21:57:50.035982+0600 INFO Adding item to wishlist
+2022-09-27T22:00:07.985281+0600 INFO Adding item to wishlist
+2022-09-27T22:01:25.265990+0600 INFO Adding item to wishlist
+2022-09-27T22:01:58.674203+0600 ERROR Message: 
+
+2022-09-27T22:02:16.316089+0600 INFO Adding item to wishlist
+2022-09-27T22:02:49.738859+0600 ERROR Message: 
+
+2022-09-27T22:03:43.062000+0600 INFO Adding item to wishlist
+2022-09-27T22:04:10.366451+0600 ERROR Message: element not interactable
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x0000000104c85de8 chromedriver + 4500968
+1   chromedriver                        0x0000000104c0b953 chromedriver + 4000083
+2   chromedriver                        0x000000010489ffcb chromedriver + 413643
+3   chromedriver                        0x00000001048d8bfe chromedriver + 646142
+4   chromedriver                        0x00000001048cca78 chromedriver + 596600
+5   chromedriver                        0x00000001048f49c2 chromedriver + 760258
+6   chromedriver                        0x00000001048cc275 chromedriver + 594549
+7   chromedriver                        0x00000001048f4b1e chromedriver + 760606
+8   chromedriver                        0x0000000104907da9 chromedriver + 839081
+9   chromedriver                        0x00000001048f47f3 chromedriver + 759795
+10  chromedriver                        0x00000001048cab90 chromedriver + 588688
+11  chromedriver                        0x00000001048cbc75 chromedriver + 593013
+12  chromedriver                        0x0000000104c571cd chromedriver + 4309453
+13  chromedriver                        0x0000000104c5ba45 chromedriver + 4328005
+14  chromedriver                        0x0000000104c61c1f chromedriver + 4353055
+15  chromedriver                        0x0000000104c5c76a chromedriver + 4331370
+16  chromedriver                        0x0000000104c3296c chromedriver + 4159852
+17  chromedriver                        0x0000000104c77ba8 chromedriver + 4443048
+18  chromedriver                        0x0000000104c77d43 chromedriver + 4443459
+19  chromedriver                        0x0000000104c8d09e chromedriver + 4530334
+20  libsystem_pthread.dylib             0x00007ff81d1e54e1 _pthread_start + 125
+21  libsystem_pthread.dylib             0x00007ff81d1e0f6b thread_start + 15
+
+2022-09-27T22:05:09.846815+0600 INFO Adding item to wishlist
+2022-09-27T22:06:31.612770+0600 INFO Adding item to wishlist
+2022-09-27T22:07:05.459328+0600 ERROR Message: element not interactable
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x000000010504fde8 chromedriver + 4500968
+1   chromedriver                        0x0000000104fd5953 chromedriver + 4000083
+2   chromedriver                        0x0000000104c69fcb chromedriver + 413643
+3   chromedriver                        0x0000000104ca2bfe chromedriver + 646142
+4   chromedriver                        0x0000000104c96a78 chromedriver + 596600
+5   chromedriver                        0x0000000104cbe9c2 chromedriver + 760258
+6   chromedriver                        0x0000000104c96275 chromedriver + 594549
+7   chromedriver                        0x0000000104cbeb1e chromedriver + 760606
+8   chromedriver                        0x0000000104cd1da9 chromedriver + 839081
+9   chromedriver                        0x0000000104cbe7f3 chromedriver + 759795
+10  chromedriver                        0x0000000104c94b90 chromedriver + 588688
+11  chromedriver                        0x0000000104c95c75 chromedriver + 593013
+12  chromedriver                        0x00000001050211cd chromedriver + 4309453
+13  chromedriver                        0x0000000105025a45 chromedriver + 4328005
+14  chromedriver                        0x000000010502bc1f chromedriver + 4353055
+15  chromedriver                        0x000000010502676a chromedriver + 4331370
+16  chromedriver                        0x0000000104ffc96c chromedriver + 4159852
+17  chromedriver                        0x0000000105041ba8 chromedriver + 4443048
+18  chromedriver                        0x0000000105041d43 chromedriver + 4443459
+19  chromedriver                        0x000000010505709e chromedriver + 4530334
+20  libsystem_pthread.dylib             0x00007ff81d1e54e1 _pthread_start + 125
+21  libsystem_pthread.dylib             0x00007ff81d1e0f6b thread_start + 15
+
+2022-09-27T22:08:24.200001+0600 INFO Adding item to wishlist
+2022-09-27T22:09:10.112018+0600 ERROR Message: element click intercepted: Element <span class="g-wishlist">...</span> is not clickable at point (215, 621). Other element would receive the click: <a href="tel:+7(727)339-61-33">...</a>
+  (Session info: chrome=105.0.5195.125)
+Stacktrace:
+0   chromedriver                        0x0000000102680de8 chromedriver + 4500968
+1   chromedriver                        0x0000000102606953 chromedriver + 4000083
+2   chromedriver                        0x000000010229b10a chromedriver + 413962
+3   chromedriver                        0x00000001022da3a2 chromedriver + 672674
+4   chromedriver                        0x00000001022d7e27 chromedriver + 663079
+5   chromedriver                        0x00000001022d5414 chromedriver + 652308
+6   chromedriver                        0x00000001022d4137 chromedriver + 647479
+7   chromedriver                        0x00000001022c7a78 chromedriver + 596600
+8   chromedriver                        0x00000001022ef9c2 chromedriver + 760258
+9   chromedriver                        0x00000001022c7275 chromedriver + 594549
+10  chromedriver                        0x00000001022efb1e chromedriver + 760606
+11  chromedriver                        0x0000000102302da9 chromedriver + 839081
+12  chromedriver                        0x00000001022ef7f3 chromedriver + 759795
+13  chromedriver                        0x00000001022c5b90 chromedriver + 588688
+14  chromedriver                        0x00000001022c6c75 chromedriver + 593013
+15  chromedriver                        0x00000001026521cd chromedriver + 4309453
+16  chromedriver                        0x0000000102656a45 chromedriver + 4328005
+17  chromedriver                        0x000000010265cc1f chromedriver + 4353055
+18  chromedriver                        0x000000010265776a chromedriver + 4331370
+19  chromedriver                        0x000000010262d96c chromedriver + 4159852
+20  chromedriver                        0x0000000102672ba8 chromedriver + 4443048
+21  chromedriver                        0x0000000102672d43 chromedriver + 4443459
+22  chromedriver                        0x000000010268809e chromedriver + 4530334
+23  libsystem_pthread.dylib             0x00007ff81d1e54e1 _pthread_start + 125
+24  libsystem_pthread.dylib             0x00007ff81d1e0f6b thread_start + 15
+
+2022-09-27T22:20:00.582578+0600 INFO Language test started language for testing:KZ
+2022-09-27T22:20:14.316064+0600 INFO Language test started language for testing:KZ
+2022-09-27T22:21:11.321259+0600 INFO Language test started language for testing:KZ
+2022-09-27T22:22:25.316512+0600 INFO Language test started language for testing:KZ
+2022-09-27T22:24:19.691224+0600 INFO Language test started language for testing:KZ
